@@ -25,8 +25,9 @@ In this repository, there are small projects one by one to create large project 
 ## Getting Started
 
 To get started with the projects, you can clone the repository and open the HTML files in a web browser:
-  git clone https://github.com/OviSarkar62/DOM_Projects.git
-  cd DOM_Projects
+
+    git clone https://github.com/OviSarkar62/DOM_Projects.git
+    cd DOM_Projects
   
 Then open the project folder and double-click on the HTML file to open it in your web browser.
 
